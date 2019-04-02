@@ -1,0 +1,4 @@
+#Sat Mar 30 20:51:06 EDT 2019
+base.0=/Users/aznable/AndroidStudioProjects/FlappyBird/android/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
